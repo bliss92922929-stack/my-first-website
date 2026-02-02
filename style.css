@@ -1,0 +1,22 @@
+body {
+    background-image: url("images/ChatGPT\ Image\ Feb\ 2\,\ 2026\,\ 05_28_56\ PM.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1 {
+    font-size: xx-large;
+    color: rgb(236, 243, 194);
+}
+h2 {
+    color: rgb(66, 38, 13)
+}
+p {
+    font-size: 18px;
+    color: rgb(236, 243, 194);
+    line-height: 1.6;
+}
+li {
+     font-size: medium;
+    color:rgb(236, 243, 194)
+}
